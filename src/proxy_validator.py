@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 
 def is_proxy_working(proxy, test_url="http://example.com", timeout=5):
     """
@@ -51,10 +52,7 @@ def validate_proxies_save(proxies, output_file="valid_proxies.txt"):
     else:
         print("\nNenhuma proxy válida encontrada. Nada foi salvo.")
 
-if __name__ == "__main__":
-    import requests
-    from bs4 import BeautifulSoup
-
+if __name__ == "__main__": 
     url = 'https://free-proxy-list.net/'
 
     # Solicitação HTTP para obter o conteúdo da página
