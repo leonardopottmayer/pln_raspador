@@ -1,0 +1,509 @@
+https://www.jusbrasil.com.br/noticias/informativo-de-licitacoes-e-contratos-do-tcu/829283487 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/prorrogacao-da-suspensao-e-reducao-dos-contratos-de-trabalho/874620504 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/o-contrato-de-seguro-d-o/766932865 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/iptu-nos-contratos-de-aluguel-locacao-cabe-a-quem-pagar/1188175513 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-adesao-clausula-arbitral-em-contrato-de-adesao-e-valida-se-consumidor-tomar-iniciativa-ou-ratifica-la/310480073 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/prazos-minimos-para-o-contrato-de-arrendamento-rural/1242720461 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/o-que-e-o-contrato-de-locacao-para-temporada/843425149 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-social-media-tudo-o-que-voce-precisa-saber/1435908555 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/da-ilegalidade-de-vencimento-antecipado-do-contrato/429852640 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/entenda-as-regras-do-contrato-de-experiencia/1152254750 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contratos-de-namoro-tem-se-tornado-mais-populares/1388484517 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contratos-de-trabalho-durante-o-estado-de-calamidade-publica/825265650 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-experiencia-apos-dispensa-da-mesma-funcao-e-considerado-fraude/1212074135 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-do-contrato-imobiliario/850472459 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/despesas-com-o-contrato-de-compra-e-venda-de-imovel/873563439 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/licitacoes-a-compatibilidade-entre-o-contrato-social-e-o-objeto-licitado/734670436 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-compra-de-imovel-sem-registro-na-matricula-e-regido-pelo-cdc/1851011756 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/prazo-do-contrato-de-locacao/124284695 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/qual-o-prazo-para-executar-um-contrato/1194317724 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/renegociacao-dos-contratos-com-o-bndes-e-aprovada/531827505 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/clausula-arbitral-em-contratos-com-construtoras/927578148 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/periodo-de-treinamento-e-integrado-ao-contrato-de-trabalho/567832237 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/os-reajustes-nos-contratos-de-plano-de-saude/1202663953 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/ensaio-o-crime-como-um-contrato/927047203 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/licitacoes-e-contratos/260782424 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/como-fazer-um-contrato-com-influenciadores-digitais/1243509588 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/mas-voce-concordou-esta-no-contrato/1273923047 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-locacao-residencial-qual-tipo-de-contrato-protege-mais-o-locatario/917372683 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/curso-contratos-e-provas-eletronicas/410952262 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/clausula-de-nao-concorrencia-em-contratos-de-franquia-empresarial/882551305 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quais-sao-os-meus-direitos-no-contrato-de-compra-e-venda-de-imovel/1233910683 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-de-contratos-na-pandemia/1269232835 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/dicas-em-contratos-de-aluguel/170813639 | Motivo: Conteúdo bloqueado por paywall
+https://www.jusbrasil.com.br/noticias/contratos-de-gaveta-no-sfh/238575006 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/a-morte-do-contrato-de-casamento/100699472 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quais-as-vantagens-de-efetivar-uma-assinatura-eletronica-de-um-contrato/1375419630 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-trabalho-e-efeitos-pandemicos/851341045 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/negado-pedido-de-rescisao-de-contrato-entre-proprietario-e-republica-estudantil/2827457848 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/rescisao-do-contrato-de-trabalho/1125247883 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/indenizacao-em-razao-de-contrato-fradulento/363690105 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/abusividade-de-taxas-de-juros-aplicadas-por-banco-em-contrato-de-financiamento/2169537220 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/as-dificuldades-presentes-em-um-contrato-de-gaveta/361093395 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-x-interrupcao-do-contrato-de-trabalho/840956183 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/nova-lei-da-licitacao-e-contratos-administrativos/1233932286 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contratos-bancarios/1267630407 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D5C7F3+24435]
+	(No symbol) [0x00CE2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contatos-para-contratos/386005618 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-celebrado-com-instituicao-de-previdencia-privada-nao-integra-contrato-de-trabalho/259376746 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/posso-pedir-indenizacao-pelo-ponto-comercial-em-contrato-de-locacao/1444502960 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/voce-sabia-que-existe-contrato-de-namoro-entenda/921715438 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/saiba-as-diferencas-entre-o-contrato-de-namoro-e-uniao-estavel/1510786183 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quando-entra-em-vigor-a-nova-lei-de-licitacoes-e-contratos/1299464034 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/licitacoes-a-compatibilidade-entre-o-contrato-social-e-o-objeto-licitado/734670436 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/os-3-niveis-de-dificuldades-dos-contratos-bancarios/705732700 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-de-contratos-na-pandemia/1269232835 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-prestacao-de-servicos-e-multa-rescisoria/1444443954 | Motivo: Conteúdo bloqueado por paywall
+https://www.jusbrasil.com.br/noticias/cajufa-divulga-relatorio-sobre-recomposicao-do-equilibrio-economico-financeiro-de-contratos/2883552038 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/a-morte-do-contrato-de-casamento/100699472 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/cumprimento-dos-contratos-no-periodo-de-pandemia/828287763 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/rescindido-contrato-de-compra-e-venda-em-razao-da-pandemia/2827442285 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quais-sao-os-meus-direitos-no-contrato-de-compra-e-venda-de-imovel/1233910683 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/curso-contratos-e-provas-eletronicas/410952262 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/modelo-de-contrato-de-honorarios/789015015 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/renovacao-de-contrato-com-a-sabesp-em-discussao/438263234 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/treinamento-avancado-expert-em-contratos/598804768 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quais-os-beneficios-da-averbacao-do-contrato-de-locacao-em-um-cartorio-de-registro-de-imoveis/868579698 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/empregado-recontratado-pode-ter-contrato-de-experiencia/1133444299 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/dicas-em-contratos-de-aluguel/170813639 | Motivo: Conteúdo bloqueado por paywall
+https://www.jusbrasil.com.br/noticias/ensaio-o-crime-como-um-contrato/927047203 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/mp-n-1045-21-que-dispoe-a-reducao-de-jornada-e-suspensao-do-contrato/1199505531 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/submissao-por-contrato/806915219 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/fraude-na-repeticao-do-contrato-de-experiencia-gera-a-indeterminacao-do-contrato/2949322 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/licitacoes-e-contratos/260782424 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-locacao-pop-up/891371004 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-por-safra/1139744826 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contratos-quebra-de-confianca-dispensa-fornecedor-de-indenizar-cliente-por-alteracao-de-contrato-verbal/189388491 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/diminua-o-descumprimento-do-seu-contrato/1194070810 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/a-extincao-do-contrato/351085497 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/cancelamento-de-contratos-pela-internet/417089190 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-locacao-revisao-de-aluguel-de-loja-e-guiada-por-contrato-e-nao-pelo-mercado/1156657646 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/voce-sabe-o-que-e-um-contrato-de-permuta/1664432043 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/como-revisar-juros-de-financiamento-mesmo-ja-assinado-o-contrato/936850653 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/revisao-das-condicoes-de-financiamento-em-contrato-de-gaveta-exige-concordancia-da-instituicao-financeira/1755029137 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/jogador-de-futebol-consegue-rescindir-contrato-por-atraso-no-fgts/2827412298 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-de-contratos-de-trabalho-mp-936-2020/904587197 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/rescisao-de-contrato-temporario-nao-gera-indenizacao-prevista-para-contrato-por-tempo-determinado/564577136 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/fcvs-pode-quitar-mais-de-um-contrato-do-sfh-se-o-contrato-for-anterior-a-lei-8-100-90/148391185 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-trabalho-intermitente/819802179 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/entenda-as-regras-do-contrato-de-experiencia/1152254750 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/tcu-suspendeu-o-contrato-de-permuta-do-crea-sp/1247898849 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/qual-o-prazo-para-executar-um-contrato/1194317724 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/as-dificuldades-presentes-em-um-contrato-de-gaveta/361093395 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-compra-de-imovel-sem-registro-na-matricula-e-regido-pelo-cdc/1851011756 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/como-revisar-juros-de-financiamento-mesmo-ja-assinado-o-contrato/936850653 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/suspensao-de-contratos-na-pandemia/1269232835 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/posso-pedir-indenizacao-pelo-ponto-comercial-em-contrato-de-locacao/1444502960 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/dicas-em-contratos-de-aluguel/170813639 | Motivo: Conteúdo bloqueado por paywall
+https://www.jusbrasil.com.br/noticias/cumprimento-dos-contratos-no-periodo-de-pandemia/828287763 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/fraude-na-repeticao-do-contrato-de-experiencia-gera-a-indeterminacao-do-contrato/2949322 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/a-extincao-do-contrato/351085497 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/quais-sao-os-meus-direitos-no-contrato-de-compra-e-venda-de-imovel/1233910683 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contrato-de-trabalho-intermitente/819802179 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contratos-quebra-de-confianca-dispensa-fornecedor-de-indenizar-cliente-por-alteracao-de-contrato-verbal/189388491 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/contatos-para-contratos/386005618 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/a-extincao-do-contrato/351085497 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
+https://www.jusbrasil.com.br/noticias/cumprimento-dos-contratos-no-periodo-de-pandemia/828287763 | Motivo: Falha ao extrair conteúdo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0094C7F3+24435]
+	(No symbol) [0x008D2074]
+	(No symbol) [
