@@ -4,10 +4,17 @@ import string
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import RSLPStemmer, WordNetLemmatizer
 
 # Baixar recursos necessários do NLTK
-nltk.download('punkt_tab')
+nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('rslp')
+nltk.download('wordnet')
+
+# Inicializar stemmer e lematizador
+stemmer = RSLPStemmer()
+lemmatizer = WordNetLemmatizer()
 
 def remover_urls(texto):
     """Remove URLs do texto."""
@@ -33,7 +40,11 @@ def processar_texto(texto):
     # Remover stopwords
     tokens = [word for word in tokens if word not in stop_words]
     
-    return ' '.join(tokens)
+    # Aplicar stemming e lematização
+    tokens_stem = [stemmer.stem(word) for word in tokens]
+    tokens_lem = [lemmatizer.lemmatize(word) for word in tokens_stem]  # Lematização pode não ser tão eficaz para PT
+    
+    return ' '.join(tokens_lem)
 
 def processar_arquivos(pasta_origem, pasta_destino):
     """Processa todos os arquivos .txt na pasta de origem e salva na pasta de destino."""
