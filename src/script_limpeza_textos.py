@@ -1,6 +1,6 @@
 import os
+import csv
 import nltk
-import string
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -22,53 +22,60 @@ def remover_urls(texto):
 
 def processar_texto(texto):
     """Realiza a limpeza e processamento do texto jurídico."""
-    # Remover URLs
     texto = remover_urls(texto)
-    
-    # Converter para minúsculas
     texto = texto.lower()
-    
-    # Tokenização
     tokens = word_tokenize(texto, language='portuguese')
-    
-    # Remover pontuação e caracteres especiais
     tokens = [word for word in tokens if word.isalnum()]
-    
-    # Lista de stopwords personalizada para manter termos jurídicos relevantes
     stop_words = set(stopwords.words('portuguese'))
-    
-    # Remover stopwords
     tokens = [word for word in tokens if word not in stop_words]
-    
-    # Aplicar stemming e lematização
     tokens_stem = [stemmer.stem(word) for word in tokens]
-    tokens_lem = [lemmatizer.lemmatize(word) for word in tokens_stem]  # Lematização pode não ser tão eficaz para PT
-    
+    tokens_lem = [lemmatizer.lemmatize(word) for word in tokens_stem]
     return ' '.join(tokens_lem)
 
-def processar_arquivos(pasta_origem, pasta_destino):
-    """Processa todos os arquivos .txt na pasta de origem e salva na pasta de destino."""
-    if not os.path.exists(pasta_destino):
-        os.makedirs(pasta_destino)
+def extrair_metadados(texto):
+    """Extrai metadados estruturados do texto jurídico considerando diferentes padrões."""
+    url_match = re.search(r'URL:\s*(\S+)', texto)
+    titulo_match = re.search(r'Título:\s*(.*?)\n', texto)
+    if not titulo_match:
+        titulo_match = re.search(r'\n\s*([\w\s]+?)\s*(?:Data de publicação|Resumo Legal Site|Pensador Jurídico)', texto)
+    data_match = re.search(r'(Data de publicação|Data):\s*(\d{2}/\d{2}/\d{4}|Data não encontrada)', texto)
+    autor_match = re.search(r'Autor:\s*(.*?)(?=\n|---|Resumo Legal Site|$)', texto)
     
-    for arquivo in os.listdir(pasta_origem):
-        if arquivo.endswith(".txt"):
-            caminho_origem = os.path.join(pasta_origem, arquivo)
-            caminho_destino = os.path.join(pasta_destino, arquivo)
-            
-            with open(caminho_origem, "r", encoding="utf-8") as f:
-                texto = f.read()
-            
-            texto_limpo = processar_texto(texto)
-            
-            with open(caminho_destino, "w", encoding="utf-8") as f:
-                f.write(texto_limpo)
-            
-            print(f"Processado: {arquivo}")
+    url = url_match.group(1).strip() if url_match else 'Não encontrado'
+    titulo = titulo_match.group(1).strip() if titulo_match else 'Não encontrado'
+    data = data_match.group(2).strip() if data_match else 'Não encontrado'
+    autor = autor_match.group(1).strip() if autor_match else 'Não encontrado'
+    
+    # Separar o conteúdo do texto corretamente
+    conteudo_inicio = texto.find('--- CONTEÚDO ---')
+    if conteudo_inicio != -1:
+        conteudo = texto[conteudo_inicio + len('--- CONTEÚDO ---'):].strip()
+    else:
+        conteudo = re.split(r'\n\n|Resumo Legal Site|Pensador Jurídico', texto, maxsplit=1)[-1].strip()
+    
+    return url, titulo, autor, data, conteudo
+
+def processar_arquivos(pasta_origem, arquivo_saida):
+    """Processa os arquivos .txt e salva em formato CSV."""
+    with open(arquivo_saida, mode='w', encoding='utf-8', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=';', quoting=csv.QUOTE_ALL)
+        writer.writerow(['URL', 'Título', 'Autor', 'Data', 'Texto Original', 'Texto Processado'])
+        
+        for arquivo in os.listdir(pasta_origem):
+            if arquivo.endswith(".txt"):
+                caminho_origem = os.path.join(pasta_origem, arquivo)
+                with open(caminho_origem, "r", encoding="utf-8") as f:
+                    texto = f.read()
+                
+                url, titulo, autor, data, conteudo = extrair_metadados(texto)
+                texto_processado = processar_texto(conteudo)
+                
+                writer.writerow([url, titulo, autor, data, conteudo.replace('\n', ' '), texto_processado.replace('\n', ' ')])
+                print(f"Processado: {arquivo}")
 
 # Caminhos de entrada e saída
 pasta_entrada = ""  
 pasta_saida = ""  
 
 # Executar processamento
-processar_arquivos(pasta_entrada, pasta_saida)
+processar_arquivos(pasta_entrada, arquivo_saida)
