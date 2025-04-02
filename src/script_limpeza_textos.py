@@ -74,8 +74,8 @@ def processar_arquivos(pasta_origem, arquivo_saida):
                 print(f"Processado: {arquivo}")
 
 # Caminhos de entrada e saída
-pasta_entrada = ""  
-pasta_saida = ""  
+pasta_entrada = "C:/Users/rickb/OneDrive/Documentos/Educacional/furb/PLN/pln_raspador/conteudos"
+arquivo_saida = "C:/Users/rickb/OneDrive/Documentos/Educacional/furb/PLN/pln_raspador/conteudos_processados.csv"
 
 # Executar processamento
 processar_arquivos(pasta_entrada, arquivo_saida)
