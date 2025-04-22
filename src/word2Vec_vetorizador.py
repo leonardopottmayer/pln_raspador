@@ -11,9 +11,13 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 import plotly.express as px
+from sklearn.preprocessing import StandardScaler
+
+scaler = StandardScaler()
 
 nltk.download('punkt_tab')
 
+CLUSTERS_COUNT = 3
 
 def Word2Vec_Vetorizar() : 
     df = pd.read_csv("src/conteudos_processados.csv", sep=';', dtype={
@@ -175,11 +179,12 @@ def recomendar_documentos_w2v(consulta, model_w2v, documentos_originais, vetores
 
 
 def aplicar_KMeans(documentos, vetores_documentos):
+    #vetores_documentos_escalados = scaler.fit_transform(vetores_documentos)
     df_w2v_docs = pd.DataFrame({'Documento Original': documentos})
 
     # 2. Aplicar KMeans
     # Definindo o número de clusters (pode ser ajustado/otimizado)
-    num_clusters = 3 # Você pode experimentar outros valores
+    num_clusters = CLUSTERS_COUNT # Você pode experimentar outros valores
 
     # Aplicando o KMeans aos vetores Word2Vec
     # Adicionar n_init=10 para evitar warnings e melhorar a robustez

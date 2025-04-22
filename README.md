@@ -1,5 +1,11 @@
 # Web Scraper para Artigos Jurídicos do JusBrasil
 
+Versão Python: 3.11.5
+
+python -m venv venv
+venv/Scripts/Activate
+pip install -r requirements.txt
+
 Este projeto consiste em um web scraper desenvolvido para coletar artigos do site [JusBrasil](https://www.jusbrasil.com.br/). A implementação foi dividida em duas etapas principais, cada uma executada por um script Python dedicado.
 
 ## Contexto

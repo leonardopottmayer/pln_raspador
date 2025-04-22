@@ -18,6 +18,8 @@ nltk.download('punkt')
 # Lista de stop words em português
 stop_words_pt = stopwords.words('portuguese')
 
+CLUSTERS_COUNT = 4
+
 
 def Vetorizar_CSV():
     print("Iniciando leitura do CSV...")
@@ -65,7 +67,7 @@ def Vetorizar_CSV():
     # ============ CLUSTERIZAÇÃO E VISUALIZAÇÃO ============
     print("\nAplicando KMeans e PCA...")
 
-    df_clusters, modelo_kmeans = aplicar_kmeans(original_tfidf, df_documentos_original, num_clusters=3)
+    df_clusters, modelo_kmeans = aplicar_kmeans(original_tfidf, df_documentos_original, num_clusters=CLUSTERS_COUNT)
     componentes_pca, modelo_pca = reduzir_dimensionalidade(original_tfidf)
 
     plotar_clusters(componentes_pca, df_clusters, titulo='Clusters com base nos documentos originais')
@@ -117,7 +119,7 @@ def recomendar_documentos_ajustada(consulta, df, matriz_tfidf, vectorizador):
 
 # ======= FUNÇÕES DE CLUSTERIZAÇÃO E PLOTAGEM =======
 
-def aplicar_kmeans(matriz_tfidf, df_documentos, num_clusters=3):
+def aplicar_kmeans(matriz_tfidf, df_documentos, num_clusters=CLUSTERS_COUNT):
     kmeans = KMeans(n_clusters=num_clusters, random_state=42)
     kmeans.fit(matriz_tfidf)
 
