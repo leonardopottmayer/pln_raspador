@@ -1,5 +1,7 @@
 # Web Scraper para Artigos Jurídicos do JusBrasil
 
+Estudantes: Eduardo Rebelo Degan, Leonardo Gian Pottmayer, Rael dos Santos Nehring, Ricardo Wehmuth Berndt 
+
 Versão Python: 3.11.5
 
 python -m venv venv
