@@ -48,12 +48,19 @@ def Vetorizar_CSV():
         'Documento': df['original'],
         'Documento Processado': documentos_vec
     })
-
+    
     df_documentos_processado = pd.DataFrame({
         'Documento': df['processado'],
         'Documento Processado': documentos_vec_processados
     })
-
+    
+    tfidf_original_list = original_tfidf.toarray().tolist()
+    tfidf_processado_list = processados_tfidf.toarray().tolist()
+    
+    df['tfidf_original'] = [str(vetor) for vetor in tfidf_original_list]
+    df['tfidf_processado'] = [str(vetor) for vetor in tfidf_processado_list]    
+    df.to_csv('conteudos_vetorizados.csv', sep=';', index=False)
+    
     print("\nRecomendações com base nos textos originais:")
     recomendacoes_original = recomendar_documentos_ajustada(
         termo_busca, df_documentos_original, original_tfidf, original_vectorizer)
