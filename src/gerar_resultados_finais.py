@@ -1,3 +1,5 @@
+# 07
+
 # NOVA VERSÃO AJUSTADA
 # Roda Word2Vec e SpaCy para "original" e "processado" e salva resultados
 
