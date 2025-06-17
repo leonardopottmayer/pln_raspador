@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+spacy
+psycopg2-binary
+sqlalchemy
+sentence-transformers
+faiss-cpu
+pandas
+scikit-learn
+torch
