@@ -1,5 +1,6 @@
 from app.nlp import analisar_texto
-from app.similarity import buscar_similares, sugerir_clausulas_por_entidade
+from app.similarity import buscar_similares
+from app.classifier import classificar_clausula
 from database.connection import SessionLocal
 from models.schema import Entrada, Entidade, Sugestao, Base
 
@@ -10,7 +11,7 @@ def processar_texto(texto):
     analise = analisar_texto(texto)
     entidades = analise["entidades"]
     sugestoes_similares = buscar_similares(texto)
-    sugestoes_clausulas = sugerir_clausulas_por_entidade(entidades)
+    classe_predita = classificar_clausula(texto)
 
     nova_entrada = Entrada(texto=texto)
     session.add(nova_entrada)
@@ -26,5 +27,5 @@ def processar_texto(texto):
     session.close()
 
     analise["sugestoes"] = sugestoes_similares
-    analise["clausulas_sugeridas"] = sugestoes_clausulas
+    analise["classe_predita"] = classe_predita
     return analise
