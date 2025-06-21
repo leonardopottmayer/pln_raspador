@@ -1,10 +1,10 @@
 TERMO_CLAUSULAS = [
-    "rescisao",
+    "rescisão",
     "prazo",
     "confidencialidade",
     "pagamento",
     "multa",
-    "jurisdicao"
+    "jurisdição"
 ]
 
 def aplicar_checklist(texto):
